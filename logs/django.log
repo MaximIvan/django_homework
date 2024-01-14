@@ -1,0 +1,122 @@
+
+[ERROR   :             django.server] - 2024-01-14 03:24:14,651 : log_message @0212: "GET /about_me/ HTTP/1.1" 500 80730
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:24:30,500 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:24:30,503 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:24:32,685 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:24:32,685 : log_message @0212: "GET /about/? HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:26:13,430 : run_with_reloader @0668: Watching for file changes with StatReloader
+[WARNING :            django.request] - 2024-01-14 03:26:28,806 : log_response @0241: Not Found: /
+[WARNING :             django.server] - 2024-01-14 03:26:28,806 : log_message @0212: "GET / HTTP/1.1" 404 2400
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:26:39,410 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:26:39,411 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:26:41,835 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:26:41,835 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[WARNING :            django.request] - 2024-01-14 03:26:48,443 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:26:48,443 : log_message @0212: "GET /about/? HTTP/1.1" 404 2436
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:27:40,240 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:27:40,243 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:27:41,639 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:27:41,644 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:28:06,501 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:28:14,476 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:28:14,482 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:28:16,325 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:28:16,332 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[WARNING :            django.request] - 2024-01-14 03:28:20,357 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:28:20,373 : log_message @0212: "GET /about/? HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:31:07,128 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:31:07,984 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:31:11,409 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:31:12,077 : run_with_reloader @0668: Watching for file changes with StatReloader
+[WARNING :            django.request] - 2024-01-14 03:31:19,927 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:31:19,927 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[WARNING :            django.request] - 2024-01-14 03:31:24,727 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:31:24,736 : log_message @0212: "GET /about/? HTTP/1.1" 404 2436
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:31:30,946 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:31:30,946 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:31:47,972 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:32:01,004 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:32:01,004 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:32:02,868 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:32:02,868 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:23,796 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:24,546 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:25,888 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:26,604 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:28,029 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:28,884 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:30,245 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:31,059 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:33:36,832 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:33:36,839 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:33:38,377 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:33:38,378 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:33:57,379 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:34:06,475 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:34:06,480 : log_message @0212: "GET /main/ HTTP/1.1" 200 718
+[WARNING :            django.request] - 2024-01-14 03:34:07,891 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:34:07,891 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:39:03,225 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:39:03,981 : run_with_reloader @0668: Watching for file changes with StatReloader
+[WARNING :            django.request] - 2024-01-14 03:39:09,602 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:39:09,602 : log_message @0212: "GET /about/? HTTP/1.1" 404 2436
+[WARNING :            django.request] - 2024-01-14 03:39:14,992 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:39:14,992 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:42:12,845 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:42:12,845 : log_message @0212: "GET /main/ HTTP/1.1" 200 721
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:42:13,838 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:42:13,852 : log_message @0212: "GET /about_me/? HTTP/1.1" 200 6007
+[WARNING :            django.request] - 2024-01-14 03:42:25,169 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:42:25,172 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:42:42,424 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:42:42,424 : log_message @0212: "GET /main/ HTTP/1.1" 200 721
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:42:44,559 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:42:44,566 : log_message @0212: "GET /about_me/? HTTP/1.1" 200 6007
+[INFO    :             django.server] - 2024-01-14 03:43:02,730 : log_message @0212: "GET /about_me HTTP/1.1" 301 0
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:43:02,738 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:43:02,738 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 6007
+[WARNING :            django.request] - 2024-01-14 03:43:08,809 : log_response @0241: Not Found: /
+[WARNING :             django.server] - 2024-01-14 03:43:08,815 : log_message @0212: "GET / HTTP/1.1" 404 2400
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:43:19,868 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:43:19,868 : log_message @0212: "GET /about_me/? HTTP/1.1" 200 6007
+[WARNING :            django.request] - 2024-01-14 03:43:23,196 : log_response @0241: Not Found: /about/
+[WARNING :             django.server] - 2024-01-14 03:43:23,196 : log_message @0212: "GET /about/ HTTP/1.1" 404 2436
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:44:09,129 : trigger_reload @0266: D:\������ �� ����������������\Django_project\homeworks\homeworkapp_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-14 03:44:10,126 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:44:21,079 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:44:21,085 : log_message @0212: "GET /main/ HTTP/1.1" 200 724
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:44:21,819 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:44:21,829 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 6007
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:44:25,089 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:44:25,090 : log_message @0212: "GET /about_me/? HTTP/1.1" 200 6007
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:49:49,940 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:49:49,948 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 1465
+[INFO    :             django.server] - 2024-01-14 03:49:53,821 : log_message @0212: "GET /admin HTTP/1.1" 301 0
+[INFO    :             django.server] - 2024-01-14 03:49:53,852 : log_message @0212: "GET /admin/ HTTP/1.1" 302 0
+[INFO    :             django.server] - 2024-01-14 03:49:54,097 : log_message @0212: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+[INFO    :             django.server] - 2024-01-14 03:49:54,370 : log_message @0212: "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+[INFO    :             django.server] - 2024-01-14 03:49:54,379 : log_message @0212: "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+[INFO    :             django.server] - 2024-01-14 03:49:54,394 : log_message @0212: "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[INFO    :             django.server] - 2024-01-14 03:49:54,395 : log_message @0212: "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[INFO    :             django.server] - 2024-01-14 03:49:54,397 : log_message @0212: "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+[INFO    :             django.server] - 2024-01-14 03:49:54,397 : log_message @0212: "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[INFO    :             django.server] - 2024-01-14 03:49:54,397 : log_message @0212: "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:50:02,502 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:50:02,502 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 1465
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:50:11,890 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:50:11,898 : log_message @0212: "GET /main/ HTTP/1.1" 200 724
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:50:13,128 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:50:13,129 : log_message @0212: "GET /about_me/? HTTP/1.1" 200 1465
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:51:27,357 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:51:27,381 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 1473
+[INFO    :             django.server] - 2024-01-14 03:51:29,831 : log_message @0212: "GET /main HTTP/1.1" 301 0
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:51:29,843 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:51:29,843 : log_message @0212: "GET /main/ HTTP/1.1" 200 724
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:51:31,496 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:51:31,499 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 1473
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:51:36,244 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:51:36,250 : log_message @0212: "GET /main/ HTTP/1.1" 200 724
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:51:39,765 : main @0041: �������� "�������" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:51:39,765 : log_message @0212: "GET /main/ HTTP/1.1" 200 724
+[INFO    :       homeworkapp_1.views] - 2024-01-14 03:51:40,966 : about_me @0046: �������� "� ����" ������� �������
+[INFO    :             django.server] - 2024-01-14 03:51:40,969 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 1473
