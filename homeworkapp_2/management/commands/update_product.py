@@ -7,7 +7,7 @@ class Command(BaseCommand):
     
     def add_arguments(self, parser):
         parser.add_argument('pk', type=int, help='product ID')
-        parser.add_argument('price', type=int, help='product price')
+        parser.add_argument('price', type=float, help='product price')
         parser.add_argument('quantity', type=int, help='product quantity')
     
     def handle(self, *args, **kwargs):
