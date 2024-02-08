@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from homeworkapp_3.models import Product, Client, Order
+from homeworkapp_4.models import Product, Client, Order
 import random
 
 class Command(BaseCommand):
